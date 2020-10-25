@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><EAIMessage MessageId="000000000022370" IntObjectName="PTSVQRYSERPRE"><IBX_ADP_IN_PARAMETERS><PARAM name="SUBSYS" value="SIEBEL"/><PARAM name="MSISDN" value="${msisdn}"/></IBX_ADP_IN_PARAMETERS></EAIMessage>
